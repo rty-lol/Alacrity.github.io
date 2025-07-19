@@ -1,1 +1,1 @@
-# Alacrity.github.io
+# Alacrity
